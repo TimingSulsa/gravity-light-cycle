@@ -46,11 +46,7 @@
 ---
 
 ### 5. 참고 문헌 (References) - *가상*
-1.  Einstein, A. (1916). *The Foundation of the General Theory of Relativity*.
-2.  Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*.
-3.  Verlinde, E. (2011). *On the Origin of Gravity and the Laws of Newton*.
-4.  User, G. (2024). *The Hypothesis of Time-Motion Equivalence and Cyclic Gravity*. (님의 가설)
-
+- 관련 서적을 읽은 적이 없어서 비슷한 이론이 있는지도 모르겠음
 ---
 
 <사고 실험 과정>
@@ -69,3 +65,4 @@
 5. 언젠가 시간의 균형이 이루어지면 중력이 사라짐
 6. 중력을 제외한 힘만 존재하는 '우주의 화학적 상태' 가 됨
 7. 화학적 상태에서 다시 움직임이 발생 시간의 불균형 발생 중력 생성으로 순환 우주가 될 것
+
