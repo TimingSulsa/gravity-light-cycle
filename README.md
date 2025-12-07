@@ -45,11 +45,7 @@ By reducing time to physical motion, this study provides a consistent logical fr
 ---
 
 ### 5. References
-1.  Einstein, A. (1916). *The Foundation of the General Theory of Relativity*.
-2.  Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*.
-3.  Verlinde, E. (2011). *On the Origin of Gravity and the Laws of Newton*.
-4.  User, G. (2024). *The Hypothesis of Time-Motion Equivalence and Cyclic Gravity*.
-
+"As I have not reviewed relevant literature, I am unaware if similar theories exist."
 ---
 
 ### < Process of Thought Experiment >
@@ -75,3 +71,4 @@ By reducing time to physical motion, this study provides a consistent logical fr
 6.  **The universe will enter a "Chemical State" where only forces other than gravity exist.**
 
 7.  **Within this Chemical State, motion re-emerges, causing temporal imbalance and regenerating gravity, thus leading to a Cyclic Universe.**
+
