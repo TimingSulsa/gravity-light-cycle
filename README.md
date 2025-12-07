@@ -73,3 +73,7 @@ As I have not reviewed relevant literature, I am unaware if similar theories exi
 7.  **Within this Chemical State, motion re-emerges, causing temporal imbalance and regenerating gravity, thus leading to a Cyclic Universe.**
 
 
+- https://blog.naver.com/samclover
+- timingsulsa@gmail.com
+
+
