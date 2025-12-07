@@ -52,4 +52,26 @@ By reducing time to physical motion, this study provides a consistent logical fr
 
 ---
 
-### Note
+### < Process of Thought Experiment >
+
+* **Basis:** Based on the physical principle that gravity and velocity alter time.
+* **Definition:** In this thought experiment, time is defined as "motion."
+* **Observation:** An observer in the present timeframe observes objects with slow motion (e.g., Black Holes) and fast motion (e.g., Muons).
+
+1.  **When velocity is slow, the timeframe approaches the *Past* (Black Holes).**
+    * It is predicted that if motion stops or reverses, the object would be observed as disappearing.
+    * Observing the actual past is impossible as it exceeds the observable time range (e.g., one cannot observe an object reversing its age).
+
+2.  **When velocity is fast, the timeframe approaches the *Future* (Muons).**
+    * A muon from the past approaches the observer's current timeframe, resulting in an observed extension of its lifespan.
+    * Observing the actual future is also impossible as it exceeds the observable time range (e.g., one cannot observe the accelerated aging process ahead of time).
+
+3.  **The reason the speed of light is observed as constant is that any velocity exceeding it transcends the observable time range and disappears into the future.**
+
+4.  **Gravity can be viewed as a force attempting to restore equilibrium to a temporal imbalance.**
+
+5.  **Once temporal equilibrium is eventually achieved, gravity will cease to exist.**
+
+6.  **The universe will enter a "Chemical State" where only forces other than gravity exist.**
+
+7.  **Within this Chemical State, motion re-emerges, causing temporal imbalance and regenerating gravity, thus leading to a Cyclic Universe.**
