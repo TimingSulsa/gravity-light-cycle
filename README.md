@@ -45,7 +45,7 @@ By reducing time to physical motion, this study provides a consistent logical fr
 ---
 
 ### 5. References
-"As I have not reviewed relevant literature, I am unaware if similar theories exist."
+As I have not reviewed relevant literature, I am unaware if similar theories exist.
 ---
 
 ### < Process of Thought Experiment >
@@ -71,4 +71,5 @@ By reducing time to physical motion, this study provides a consistent logical fr
 6.  **The universe will enter a "Chemical State" where only forces other than gravity exist.**
 
 7.  **Within this Chemical State, motion re-emerges, causing temporal imbalance and regenerating gravity, thus leading to a Cyclic Universe.**
+
 
