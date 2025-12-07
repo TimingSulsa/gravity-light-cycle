@@ -66,7 +66,8 @@
 6. 중력을 제외한 힘만 존재하는 '우주의 화학적 상태' 가 됨
 7. 화학적 상태에서 다시 움직임이 발생 시간의 불균형 발생 중력 생성으로 순환 우주가 될 것
 
-https://blog.naver.com/samclover
-timingsulsa@gmail.com
+- https://blog.naver.com/samclover
+- timingsulsa@gmail.com
+
 
 
